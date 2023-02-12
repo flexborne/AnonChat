@@ -1,0 +1,136 @@
+goroutine 1 [running]:
+runtime/debug.Stack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:24 +0x6c
+runtime/debug.PrintStack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:16 +0x24
+main.addRandomClientsToMatchChannel(0xc0001a4000)
+	/Users/alexander/GolandProjects/server/main.go:191 +0x6c
+main.main()
+	/Users/alexander/GolandProjects/server/main.go:206 +0xac
+goroutine 30 [running]:
+runtime/debug.Stack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:24 +0x6c
+runtime/debug.PrintStack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:16 +0x24
+main.(*App).handleMatchResult(0xc0001a4000, 0xc00019bc70)
+	/Users/alexander/GolandProjects/server/main.go:101 +0x434
+created by main.(*App).handleNewFindMatch
+	/Users/alexander/GolandProjects/server/main.go:76 +0x244
+goroutine 1 [running]:
+runtime/debug.Stack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:24 +0x6c
+runtime/debug.PrintStack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:16 +0x24
+main.addRandomClientsToMatchChannel(0xc0001a4000)
+	/Users/alexander/GolandProjects/server/main.go:191 +0x6c
+main.main()
+	/Users/alexander/GolandProjects/server/main.go:206 +0xac
+goroutine 1 [running]:
+runtime/debug.Stack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:24 +0x6c
+runtime/debug.PrintStack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:16 +0x24
+main.addRandomClientsToMatchChannel(0xc0001a4000)
+	/Users/alexander/GolandProjects/server/main.go:191 +0x6c
+main.main()
+	/Users/alexander/GolandProjects/server/main.go:206 +0xac
+goroutine 34 [running]:
+runtime/debug.Stack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:24 +0x6c
+runtime/debug.PrintStack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:16 +0x24
+main.(*App).handleMatchResult(0xc0001a4000, 0xc000220000)
+	/Users/alexander/GolandProjects/server/main.go:101 +0x434
+created by main.(*App).handleNewFindMatch
+	/Users/alexander/GolandProjects/server/main.go:76 +0x244
+goroutine 1 [running]:
+runtime/debug.Stack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:24 +0x6c
+runtime/debug.PrintStack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:16 +0x24
+main.addRandomClientsToMatchChannel(0xc0001a4000)
+	/Users/alexander/GolandProjects/server/main.go:191 +0x6c
+main.main()
+	/Users/alexander/GolandProjects/server/main.go:206 +0xac
+goroutine 35 [running]:
+runtime/debug.Stack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:24 +0x6c
+runtime/debug.PrintStack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:16 +0x24
+main.(*App).handleMatchResult(0xc0001a4000, 0xc000220070)
+	/Users/alexander/GolandProjects/server/main.go:101 +0x434
+created by main.(*App).handleNewFindMatch
+	/Users/alexander/GolandProjects/server/main.go:76 +0x244
+goroutine 50 [running]:
+runtime/debug.Stack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:24 +0x6c
+runtime/debug.PrintStack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:16 +0x24
+main.(*App).handleMatchResult(0xc0001a4000, 0xc0002200e0)
+	/Users/alexander/GolandProjects/server/main.go:101 +0x434
+created by main.(*App).handleNewFindMatch
+	/Users/alexander/GolandProjects/server/main.go:76 +0x244
+goroutine 1 [running]:
+runtime/debug.Stack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:24 +0x6c
+runtime/debug.PrintStack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:16 +0x24
+main.addRandomClientsToMatchChannel(0xc0001a4000)
+	/Users/alexander/GolandProjects/server/main.go:191 +0x6c
+main.main()
+	/Users/alexander/GolandProjects/server/main.go:206 +0xac
+goroutine 36 [running]:
+runtime/debug.Stack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:24 +0x6c
+runtime/debug.PrintStack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:16 +0x24
+main.(*App).handleMatchResult(0xc0001a4000, 0xc00019bce0)
+	/Users/alexander/GolandProjects/server/main.go:101 +0x434
+created by main.(*App).handleNewFindMatch
+	/Users/alexander/GolandProjects/server/main.go:76 +0x244
+goroutine 1 [running]:
+runtime/debug.Stack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:24 +0x6c
+runtime/debug.PrintStack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:16 +0x24
+main.addRandomClientsToMatchChannel(0xc0001a4000)
+	/Users/alexander/GolandProjects/server/main.go:191 +0x6c
+main.main()
+	/Users/alexander/GolandProjects/server/main.go:206 +0xac
+goroutine 66 [running]:
+runtime/debug.Stack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:24 +0x6c
+runtime/debug.PrintStack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:16 +0x24
+main.(*App).handleMatchResult(0xc0001a4000, 0xc00019bd50)
+	/Users/alexander/GolandProjects/server/main.go:101 +0x434
+created by main.(*App).handleNewFindMatch
+	/Users/alexander/GolandProjects/server/main.go:76 +0x244
+goroutine 1 [running]:
+runtime/debug.Stack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:24 +0x6c
+runtime/debug.PrintStack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:16 +0x24
+main.addRandomClientsToMatchChannel(0xc0001a4000)
+	/Users/alexander/GolandProjects/server/main.go:191 +0x6c
+main.main()
+	/Users/alexander/GolandProjects/server/main.go:206 +0xac
+goroutine 67 [running]:
+runtime/debug.Stack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:24 +0x6c
+runtime/debug.PrintStack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:16 +0x24
+main.(*App).handleMatchResult(0xc0001a4000, 0xc00019bdc0)
+	/Users/alexander/GolandProjects/server/main.go:101 +0x434
+created by main.(*App).handleNewFindMatch
+	/Users/alexander/GolandProjects/server/main.go:76 +0x244
+goroutine 1 [running]:
+runtime/debug.Stack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:24 +0x6c
+runtime/debug.PrintStack()
+	/Users/alexander/sdk/go1.19.2/src/runtime/debug/stack.go:16 +0x24
+main.addRandomClientsToMatchChannel(0xc0001a4000)
+	/Users/alexander/GolandProjects/server/main.go:191 +0x6c
+main.main()
+	/Users/alexander/GolandProjects/server/main.go:206 +0xac
+signal: interrupt
