@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/RandomSearch.qml</file>
+        <file>qml/Chat.qml</file>
+        <file>qml/enumTranslations.js</file>
+    </qresource>
+</RCC>
