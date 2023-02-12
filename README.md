@@ -3,8 +3,8 @@ An anonymous chat platform implemented using websockets in Golang and a C++/Qml 
 
 # Features
 Participants can chat without having to reveal their identity.
-Fast matchmaking for anonymous conversations
-[Future] ability to create lobby 
+Fast matchmaking for anonymous conversations.
+[Future] ability to create lobby.
 
 # Server
 The server is built using the Golang and utilizes websockets to handle real-time communication between clients.
